@@ -2,7 +2,7 @@
 title: "Lab 00 - Hello IDS!"
 author: "Manuel Cabrera"
 date: "`r Sys.Date()`"
-output: html_document
+output: html_document 
 ---
 
 ### Load packages and data
